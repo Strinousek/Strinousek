@@ -2,7 +2,7 @@
 
 - 🌌 Czech
 - 🌀 IT Student
-- 🌊 Front End Web Developer
+- 🌊 Full Stack Web Developer
 - ☄️ New to .NET environment
 
 ![Strin stats](https://github-readme-stats.vercel.app/api?username=Strinousek&show_icons=true&theme=dark)
