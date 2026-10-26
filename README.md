@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 IT Student<br>♻️ Full Stack Web Developer<br>👽 Trying to outgrow myself every day.
+♻️ Full Stack Web Developer<br>👽 Trying to outgrow myself every day.
 
 
 # 💻 Tech Stack:
